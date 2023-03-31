@@ -25,6 +25,10 @@ HTML5, CSS/SCSS, JS, jQuery, BEM, Animate.css, Slick.js, WordPress, Gulp
 
 [Watch Demo](https://markupchef.github.io/yastreb.jewelry/)
 
+[Yastreb.jewelry](https://yastreb.jewelry)
+
+⚠️The result of my work may be different on the original site, as it can work on the client's developers, who can make changes affecting the functionality, layout and view.
+
 
 ## Authors
 
